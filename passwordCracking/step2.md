@@ -1,1 +1,1 @@
-john --format=raw-md5 --wordlist=10k-passwords.txt 10-hashes.txt
+`john --format=raw-md5 --wordlist=./step1/10k-passwords.txt ./step1/10-hashes.txt`{{execute}}
