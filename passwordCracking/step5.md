@@ -4,7 +4,9 @@ We will be attempting to break 2 passwords with this.
 
 To view the files run the following:
 	View the wordlist: `cat ./step4/wordlist.txt`{{execute}}
+
 	View the hashes: `cat ./step4/hash.txt`{{execute}}
+
 	View the rules: `cat ./john-local.conf`{{execute}}
 
 To crack the passwords, run the following command:

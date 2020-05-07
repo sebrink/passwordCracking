@@ -4,6 +4,7 @@ We will be appending this mask to the name of my dog, Wally.
 
 To view the files run the following:
 	View my dog's name: `cat ./step3/wally.txt`{{execute}}
+
 	View the hashes: `cat ./step3/hash.txt`{{execute}}
 
 To crack the passwords, run the following command:
